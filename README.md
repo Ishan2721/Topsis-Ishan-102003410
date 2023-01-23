@@ -2,7 +2,7 @@
 Topsis implementation in python. Used as a command line tool to generate topsis score and ranks of the given input data file along with weights and impacts.
 
 Installation
-pip install Topsis-Ishan-102003404
+pip install Topsis-Ishan-102003410
 
 How to use it?
 Open the terminal / cmd and type topsis <input_filename.csv> <"Weights"> <"Impacts"> <output_filename.csv>
